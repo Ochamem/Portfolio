@@ -23,3 +23,11 @@
 > - Conception et développement de l'interface utilisateur de l'application web en utilisant HTML, CSS et JavaScript.
 > - Déploiement de l'application
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
+
+### Une application pour gérer votre compte Sellsy à l'aide de Python:
+![image](https://github.com/Ochamem/portfolio/assets/145020975/9ad4ce28-6b4c-44f5-ad0c-7f4dd6ff8a5d)
+
+> Étapes clés
+> - Vous permet de vous connecter avec vos clés API privées Oauth
+> - Accès à toutes les méthodes répertoriées [ici](https://api.sellsy.com/documentation/methods) avec une seule fonction
+> - Gestionnaire d'erreur
