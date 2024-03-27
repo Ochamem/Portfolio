@@ -7,3 +7,4 @@
 - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
   
 ## Mon Portfolio
+![image](https://github.com/Ochamem/portfolio/assets/145020975/91529f76-7e7d-4597-a23f-8f79259c14c4)
