@@ -1,0 +1,46 @@
+div.container-fluid{
+    height: 100%;
+    position: fixed;
+}
+div.container-fluid>div.row{
+    height: 100%;
+}
+div.sidebar{
+    background-color: #0001;
+    height: 100%;
+}
+
+div.sidebar>form, #vehicle-info{
+    margin: 0.5em;
+}
+
+.form-group>label{
+    font-weight: bold;
+}
+
+#vehicle-info h3{
+    font-weight: bold;
+}
+
+#vehicle-info>div>p>label{
+    font-weight: bold;
+}
+
+#ecoscore{
+    width: 100%;
+}
+
+#vehicle-thumbnail{
+    display: flex;
+    justify-content: center;
+}
+
+#vehicle-thumbnail .spinner-grow{
+    margin-top: 74px;
+}
+
+#vehicle-thumbnail>img{
+    display: block;
+    height: 180px;
+    margin: 0.5em auto;
+}
