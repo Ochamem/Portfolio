@@ -11,7 +11,8 @@
 - une API
 - une interface web
   
-!(https://github.com/Ochamem/portfolio/assets/145020975/91529f76-7e7d-4597-a23f-8f79259c14c4)
+![image](https://github.com/Ochamem/portfolio/assets/145020975/6185a849-f7b3-4827-b16e-95f5496a2ce7)
+
 
 > Structure de projet:
 Les dossiers du projet sont organisés comme suit :
@@ -27,8 +28,10 @@ Les dossiers du projet sont organisés comme suit :
 >Étapes clés
 > - Extraction des données avec Sélénium
 > - Extract, transform & Load les données avec Knime
-> - Créer une régression linéaire pour imputer les données manquantes
-> - Utiliser le clustering k-means
-> - Déterminer le meilleur modèle d'apprentissage automatique et prédire avec succès les émissions de GES des véhicules électriques en Europe
-> - 
+> - Création d'une régression linéaire pour imputer les données manquantes
+> - Analyse exploratoire des données (EDA)
+> - Utilisation le clustering k-means
+> - Détermination le meilleur modèle d'apprentissage automatique et prédire avec succès les émissions de GES des véhicules électriques en Europe
+> - Conception et développement  l'interface utilisateur de l'application web en utilisant HTML, CSS et JavaScript.
+> - Déploiement de l'application
 #### En savoir plus sur le projet [ICI]()
