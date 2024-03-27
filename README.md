@@ -1,5 +1,5 @@
 # Analyste de données 
-#### Compétences techniques : Python, SQL, PowerBI, Tableau, ETL, Knime, Excel
+### Compétences techniques : Python, SQL, PowerBI, Tableau, ETL, Knime, Excel
 À l'origine, designer par passion ! je vous propose de partager mes compétences pour vous aider à transformer vos données abstraites en histoires visuelles.
 > - Mes spécialités ? IT, data analyst , et la crème de la crème des nouvelles technos.
 > - Mon super-pouvoir ? Je code en Python et SQL qui me permet de jongler avec les données avec une grande aisance.
@@ -7,7 +7,7 @@
 > - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
 
 ## Mon Portfolio 
-#### Une application permettant de consulter des données sur les émissions de GES des véhicules en Europe via :
+### Une application permettant de consulter des données sur les émissions de GES des véhicules en Europe via :
 > - une API
 > - une interface web
 
@@ -22,3 +22,4 @@
 > - Détermination du meilleur modèle d'apprentissage automatique et prédiction réussie des émissions de GES des véhicules électriques en Europe
 > - Conception et développement de l'interface utilisateur de l'application web en utilisant HTML, CSS et JavaScript.
 > - Déploiement de l'application
+> #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
