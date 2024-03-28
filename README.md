@@ -24,7 +24,7 @@
 > - Déploiement de l'application
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
 
-### Une application pour gérer votre compte Sellsy à l'aide de Python:
+### :bookmark_tabs: Une application pour gérer votre compte Sellsy à l'aide de Python:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/9ad4ce28-6b4c-44f5-ad0c-7f4dd6ff8a5d)
 
 > Étapes clés
@@ -36,10 +36,10 @@
 > - Implémentation les tableaux de bord avec Power BI
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
 
-### Une application pour classification d'image:
+### :bookmark_tabs: Une application pour classification d'image:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/dc4e3b05-e299-4063-8238-a00991cdc25c)
 
-### Cloner Netflix avec DataStax DB et GraphQL:
+### :bookmark_tabs: Cloner Netflix avec DataStax DB et GraphQL:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/4902f80f-7c5d-4447-8b65-6293a318792d)
 
 Un simple clone de page d'accueil ReactJS Netflix exécuté sur DataStax DB qui exploite l'API GraphQL avec pagination et défilement infini.
