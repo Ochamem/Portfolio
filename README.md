@@ -7,11 +7,11 @@
 > - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
 
 ## Mon Portfolio 
-### :bookmark_tabs: Une application permettant de consulter des données sur les émissions de GES des véhicules en Europe via :
+### Une application permettant de consulter des données sur la prédiction des émissions de GES des véhicules électriques en Europe via :
 > - une API
 > - une interface web
 
-![image](https://github.com/Ochamem/portfolio/assets/145020975/ec8418c6-5431-4245-a57c-b778ccb6b7ad)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/0fd0f255-7e89-49fd-90ac-f20c93d964e5)
 
 > Étapes clés
 > - Extraction des données avec Selenium
@@ -24,7 +24,7 @@
 > - Déploiement de l'application
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
 
-### :bookmark_tabs: Une application pour gérer votre compte Sellsy à l'aide de Python:
+### Une application pour gérer votre compte Sellsy à l'aide de Python:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/9ad4ce28-6b4c-44f5-ad0c-7f4dd6ff8a5d)
 
 > Étapes clés
@@ -36,12 +36,12 @@
 > - Implémentation les tableaux de bord avec Power BI
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
 
-### :bookmark_tabs: Une application pour classification d'image:
+### Une application pour classification d'image:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/dc4e3b05-e299-4063-8238-a00991cdc25c)
 
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%204).
 
-### :bookmark_tabs: Cloner Netflix avec DataStax DB et GraphQL:
+### Cloner Netflix avec DataStax DB et GraphQL:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/4902f80f-7c5d-4447-8b65-6293a318792d)
 
 Un simple clone de page d'accueil ReactJS Netflix exécuté sur DataStax DB qui exploite l'API GraphQL avec pagination et défilement infini.
