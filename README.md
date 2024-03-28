@@ -34,4 +34,4 @@
 > - création des datamarts plus ciblé et plus convivial pour les consommer dans des rapports.
 > - Création des maquettes par Figma pour valider la direction de la visualisation avant la phase d'implémentation complète.
 > - Implémentation les tableaux de bord avec Power BI
-> #### En savoir plus sur le projet [ICI]().
+> #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
