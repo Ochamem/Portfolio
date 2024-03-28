@@ -11,7 +11,7 @@
 > - une API
 > - une interface web
 
-![image](https://github.com/Ochamem/portfolio/assets/145020975/ec8418c6-5431-4245-a57c-b778ccb6b7ad)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/0fd0f255-7e89-49fd-90ac-f20c93d964e5)
 
 > Étapes clés
 > - Extraction des données avec Selenium
