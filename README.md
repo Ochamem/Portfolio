@@ -7,7 +7,7 @@
 > - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
 
 ## Mon Portfolio 
-### Une application permettant de consulter des données sur les émissions de GES des véhicules en Europe via :
+### :bookmark_tabs: Une application permettant de consulter des données sur les émissions de GES des véhicules en Europe via :
 > - une API
 > - une interface web
 
