@@ -62,30 +62,30 @@ En somme, GraphQL est un langage de requête flexible et efficace pour les API q
 </details>
 # Commençons
 
-## Table des matières
+> Étapes clés
 
-### Partie I - Configuration de la base de données et ingestion de données
-1. Créer une instance de base de données DataStax
-2. Créer un jeton de sécurité
-3. Créer une table pour les genres avec GraphQL
-4. Insérer les données de genre avec GraphQL
-5. Récupérer les genres avec GraphQL
-6. Créer une table pour les films
-7. Insérer quelques films
-8. Récupérer des films : pagination
+##### Partie I - Configuration de la base de données et ingestion de données
+> - Créer une instance de base de données DataStax
+> - Créer un jeton de sécurité
+> - Créer une table pour les genres avec GraphQL
+> - Insérer les données de genre avec GraphQL
+> - Récupérer les genres avec GraphQL
+> - Créer une table pour les films
+> - Insérer quelques films
+> - Récupérer des films : pagination
 
-### Partie 2 – Créer et déployer le front-end
+##### Partie 2 – Créer et déployer le front-end
 
-1. Déployer l'interface graphique squelettique sur Netlify
-2. Lancez Gitpod depuis VOTRE dépôt Github
-3. Configurer et utiliser astra-cli
-4. Fonctions sans serveur
-5. Récupération depuis le front-end
-6. Installer la CLI Netlify
-7. Fournir les paramètres de connexion à la base de données
-8. Exécuter l'application en mode dev
-9. Connect to your Netlify site
-10. Déployer en production !
+> - Déployer l'interface graphique squelettique sur Netlify
+> - Lancez Gitpod depuis VOTRE dépôt Github
+> - Configurer et utiliser astra-cli
+> - Fonctions sans serveur
+> - Récupération depuis le front-end
+> - Installer la CLI Netlify
+> - Fournir les paramètres de connexion à la base de données
+> - Exécuter l'application en mode dev
+> - Connect to your Netlify site
+> - Déployer en production !
 
 
 
