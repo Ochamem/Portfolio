@@ -11,7 +11,7 @@
 > - une API
 > - une interface web
 
-![image](https://github.com/Ochamem/Portfolio/assets/145020975/0fd0f255-7e89-49fd-90ac-f20c93d964e5)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/9e7f8477-4990-43a4-871d-48afc4ae1914)
 
 > Étapes clés
 > - Extraction des données avec Selenium
@@ -25,7 +25,7 @@
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
 
 ### Une application pour gérer votre compte Sellsy à l'aide de Python:
-![image](https://github.com/Ochamem/portfolio/assets/145020975/9ad4ce28-6b4c-44f5-ad0c-7f4dd6ff8a5d)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/33402017-6c07-4809-935c-33970751c825)
 
 > Étapes clés
 > - Vous permet de vous connecter avec vos clés API privées Oauth
