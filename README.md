@@ -39,6 +39,8 @@
 ### :bookmark_tabs: Une application pour classification d'image:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/dc4e3b05-e299-4063-8238-a00991cdc25c)
 
+> #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%204).
+
 ### :bookmark_tabs: Cloner Netflix avec DataStax DB et GraphQL:
 ![image](https://github.com/Ochamem/portfolio/assets/145020975/4902f80f-7c5d-4447-8b65-6293a318792d)
 
