@@ -35,3 +35,7 @@
 > - Création des maquettes par Figma pour valider la direction de la visualisation avant la phase d'implémentation complète.
 > - Implémentation les tableaux de bord avec Power BI
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
+
+### Une application pour classification d'image:
+![image](https://github.com/Ochamem/portfolio/assets/145020975/dc4e3b05-e299-4063-8238-a00991cdc25c)
+
