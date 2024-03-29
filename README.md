@@ -7,7 +7,7 @@
 > - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
 
 ## Mon Portfolio 
-### * Une application permettant de consulter des données sur la prédiction des émissions de GES des véhicules électriques en Europe via :
+### 1. Une application permettant de consulter des données sur la prédiction des émissions de GES des véhicules électriques en Europe via :
 > - une API
 > - une interface web
 
@@ -25,7 +25,7 @@
 > - Déploiement de l'application
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
 
-### Une application pour gérer votre compte Sellsy à l'aide de Python:
+### 2. Une application pour gérer votre compte Sellsy à l'aide de Python:
 ![image](https://github.com/Ochamem/Portfolio/assets/145020975/ff3b354f-46ae-40eb-a2c9-d5a2d87fd640)
 
 > Étapes clés
@@ -37,13 +37,13 @@
 > - Implémentation les tableaux de bord avec Power BI
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
 
-### Une application pour classification d'image:
+### 3. Une application pour classification d'image:
 ![image](https://github.com/Ochamem/Portfolio/assets/145020975/0ceed4f4-ec45-4759-bb80-4c86e561f6ef)
 
 
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%204).
 
-### Cloner Netflix avec DataStax DB et GraphQL:
+### 3. Cloner Netflix avec DataStax DB et GraphQL:
 ![image](https://github.com/Ochamem/Portfolio/assets/145020975/936c041b-0ab0-47a4-a797-6d0cdce1764f)
 
 
@@ -65,10 +65,8 @@ Avec GraphQL, les clients peuvent interroger une API pour récupérer uniquement
 En somme, GraphQL est un langage de requête flexible et efficace pour les API qui permet aux clients de spécifier exactement les données dont ils ont besoin, en évitant le gaspillage de ressources et en améliorant les performances.
 
 </details>
-# Commençons
 
 > Étapes clés
-
 ##### Partie I - Configuration de la base de données et ingestion de données
 > - Créer une instance de base de données DataStax
 > - Créer un jeton de sécurité
@@ -80,7 +78,6 @@ En somme, GraphQL est un langage de requête flexible et efficace pour les API q
 > - Récupérer des films : pagination
 
 ##### Partie 2 – Créer et déployer le front-end
-
 > - Déployer l'interface graphique squelettique sur Netlify
 > - Lancez Gitpod depuis VOTRE dépôt Github
 > - Configurer et utiliser astra-cli
