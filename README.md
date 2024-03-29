@@ -11,7 +11,8 @@
 > - une API
 > - une interface web
 
-![image](https://github.com/Ochamem/Portfolio/assets/145020975/9e7f8477-4990-43a4-871d-48afc4ae1914)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/f87a44c6-b63e-4b12-afad-83e0ddca70a6)
+
 
 > Étapes clés
 > - Extraction des données avec Selenium
@@ -25,7 +26,7 @@
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%201).
 
 ### Une application pour gérer votre compte Sellsy à l'aide de Python:
-![image](https://github.com/Ochamem/Portfolio/assets/145020975/33402017-6c07-4809-935c-33970751c825)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/ff3b354f-46ae-40eb-a2c9-d5a2d87fd640)
 
 > Étapes clés
 > - Vous permet de vous connecter avec vos clés API privées Oauth
@@ -37,12 +38,14 @@
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
 
 ### Une application pour classification d'image:
-![image](https://github.com/Ochamem/portfolio/assets/145020975/dc4e3b05-e299-4063-8238-a00991cdc25c)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/0ceed4f4-ec45-4759-bb80-4c86e561f6ef)
+
 
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%204).
 
 ### Cloner Netflix avec DataStax DB et GraphQL:
-![image](https://github.com/Ochamem/portfolio/assets/145020975/4902f80f-7c5d-4447-8b65-6293a318792d)
+![image](https://github.com/Ochamem/Portfolio/assets/145020975/936c041b-0ab0-47a4-a797-6d0cdce1764f)
+
 
 Un simple clone de page d'accueil ReactJS Netflix exécuté sur DataStax DB qui exploite l'API GraphQL avec pagination et défilement infini.
 
