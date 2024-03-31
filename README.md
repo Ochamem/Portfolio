@@ -38,9 +38,16 @@
 > - Vous permet de vous connecter avec vos clés API privées Oauth
 > - Accès à toutes les méthodes répertoriées [ici](https://api.sellsy.com/documentation/methods) avec une seule fonction
 > - Gestionnaire d'erreur
-> - création des datamarts plus ciblé et plus convivial pour les consommer dans des rapports.
-> - Création des maquettes par Figma pour valider la direction de la visualisation avant la phase d'implémentation complète.
+> - Préparer, nettoyer et effectuer une analyse exploratoire des données fournies
+> - Examiner les indicateurs de projet Locomotiv (évolution du chiffre d'affaires au fil du temps, chiffre d'affaires par catégorie, ventes de produits, données démographiques des clients, dépenses des clients, et les 10 principaux clients par achats et ventes)
+> - Examiner les corrélations entre les données démographiques des clients et les indicateurs de services.
+> - Analyser les principales conclusions afin de fournir des informations exploitables
+> - création des datamarts plus ciblés et conviviaux pour les consommer dans des rapports [ICI](https://github.com/Ochamem/Portfolio/blob/main/Projet%202/sellsy_api/maquette/LOCOMOTIV'/Datamart.PNG).
+> - Création des maquettes par Figma [ICI](https://github.com/Ochamem/Portfolio/tree/main/Projet%202/sellsy_api/maquette/LOCOMOTIV') pour valider la direction de la visualisation avant la phase d'implémentation complète.
 > - Implémentation les tableaux de bord avec Power BI
+> - Phase recette: la vérification de l'exactitude des données, la convivialité de l'interface, la cohérence des graphiques et leur pertinence par rapport aux besoins fixées initialement
+> - Documentation : explications sur les choix de conception, les outils utilisés, les étapes de développement, ainsi que des guides ou manuels d'utilisation pour les utilisateurs finaux.
+
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%202).
 
 ### 3. Une application pour classification d'image:
