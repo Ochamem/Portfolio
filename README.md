@@ -53,7 +53,12 @@
 ### 3. Une application pour classification d'image:
 ![image](https://github.com/Ochamem/Portfolio/assets/145020975/0ceed4f4-ec45-4759-bb80-4c86e561f6ef)
 
-
+> Étapes clés
+> - Chargement du modèle entraîné
+> - Définition de la fonction de prédiction du modèle
+> - Définition de la route principale de l'application Flask
+> - Définition de la route pour téléverser et prédire les images
+> - Lancement de l'application Flask
 > #### En savoir plus sur le projet [ICI](https://github.com/Ochamem/portfolio/tree/main/Projet%204).
 
 ### 3. Cloner Netflix avec DataStax DB et GraphQL:
