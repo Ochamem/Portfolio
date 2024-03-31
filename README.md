@@ -19,6 +19,12 @@
 > - Extract, transform & load des données avec Knime
 > - Création d'une régression linéaire pour imputer les données manquantes
 > - Analyse exploratoire des données (EDA)
+> - Création des datamarts plus ciblés et conviviaux
+> - Création des maquettes avec excalidraw pour valider la direction de la visualisation avant la phase d'implémentation complète
+> - implémentation complète par Power BI :<br>
+>  [Tableau de bord 1](https://github.com/Ochamem/Portfolio/assets/145020975/8048fc3b-34a8-4bf8-8ee7-d46b88640193)+ [Tableau de bord 2](https://github.com/Ochamem/Portfolio/assets/145020975/f734bcfc-ee89-4925-93ac-96e41a52c4d1) vous trouverez le script Python  [ICI](https://github.com/Ochamem/Portfolio/blob/main/Projet%201/Co2_emission/Script_powerBI.py)
+> - Phase recette: la vérification de l'exactitude des données, la convivialité de l'interface, la cohérence des graphiques et leur pertinence par rapport aux besoins fixées initialement
+> - Documentation : explications sur les choix de conception, les outils utilisés, les étapes de développement, ainsi que des guides ou manuels d'utilisation pour les utilisateurs finaux.
 > - Utilisation du clustering k-means
 > - Détermination du meilleur modèle d'apprentissage automatique et prédiction réussie des émissions de GES des véhicules électriques en Europe
 > - Conception et développement de l'interface utilisateur de l'application web en utilisant HTML, CSS et JavaScript.
