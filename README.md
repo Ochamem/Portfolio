@@ -15,10 +15,10 @@
 
 
 > Étapes clés
-> - Extraction des données avec Selenium
-> - Extract, transform & load des données avec Knime
+> - Extraction des données avec Selenium [ICI](https://github.com/Ochamem/Portfolio/blob/main/Projet%201/Co2_emission/code/Scraping/iea_scraping_import%20final.ipynb).
+> - Extract, transform & load des données avec [KNIME](https://github.com/Ochamem/Portfolio/tree/main/Projet%201/Co2_emission/KNIME).
 > - Création d'une régression linéaire pour imputer les données manquantes
-> - Analyse exploratoire des données (EDA)
+> - Analyse exploratoire des données[EDA](https://github.com/Ochamem/Portfolio/blob/main/Projet%201/Co2_emission/code/EDA/EDA.ipynb)
 > - Création des datamarts plus ciblés et conviviaux
 > - Création des maquettes avec excalidraw pour valider la direction de la visualisation avant la phase d'implémentation complète
 > - implémentation complète par Power BI :<br>
