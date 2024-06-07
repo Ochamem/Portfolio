@@ -7,6 +7,7 @@
 > - Mon objectif ? Continuer à progresser et à me perfectionner dans mon domaine.
 
 ## Mon Portfolio 
+![image](https://github.com/Ochamem/Portfolio/blob/main/images/1716392715506.jpg?raw=true)
 ### 1. Une application permettant de consulter des données sur la prédiction des émissions de GES des véhicules électriques en Europe via :
 > - une API
 > - une interface web
